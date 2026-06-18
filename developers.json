@@ -1,0 +1,30 @@
+{
+  "developers": [
+    {
+      "username": "dev",
+      "password": "dev123",
+      "role": "developer",
+      "userId": "DEV-001",
+      "level": "99",
+      "expiredDate": "2099-12-31",
+      "note": "Akun developer testing — bisa login tanpa server backend jalan"
+    },
+    {
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin",
+      "userId": "DEV-002",
+      "level": "100",
+      "expiredDate": "2099-12-31"
+    },
+    {
+      "username": "tester",
+      "password": "test123",
+      "role": "tester",
+      "userId": "DEV-003",
+      "level": "50",
+      "expiredDate": "2025-12-31",
+      "note": "Contoh akun expired — buat test handling masa berlaku habis"
+    }
+  ]
+}
