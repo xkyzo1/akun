@@ -1,0 +1,38 @@
+{
+  "accounts": [
+    {
+      "username": "kyzosan",
+      "password": "kyzosan",
+      "role": "DEVELOPER",
+      "userId": "999999",
+      "level": "5",
+      "key": "BYPASS_KEY_SAMPLE",
+      "expiredDate": "2030-12-31",
+      "listBug": [
+        {"name": "WhatsApp Crash Payload V1", "details": "Payload deskripsi"}
+      ],
+      "listDDoS": [
+        {"name": "UDP Flood Ultra", "port": "80"}
+      ]
+    },
+    {
+      "username": "tester",
+      "password": "123",
+      "role": "MEMBER",
+      "userId": "123456",
+      "level": "1"
+    }
+  ],
+  "listBug": [
+    {"name": "General WhatsApp Exploit", "details": "Payload cadangan"}
+  ],
+  "listDDoS": [
+    {"name": "HTTP Flood Layer 7", "port": "443"}
+  ],
+  "news": [
+    {
+      "title": "✨ DEV MODE ACTIVE",
+      "content": "Selamat datang kembali! Bypass Server berhasil diaktivasi melalui GitHub Raw."
+    }
+  ]
+}
